@@ -17,6 +17,8 @@ The Jupyter notebook `notebook.ipynb` contains all the processes from data loadi
 
 `predict_test.py` is the predict script for model prediction.
 
+`Pipfile` and `Pipfile.lock` are files to reproduce the environment.
+
 
 # Docker
 The `Dockerfile` contains how to containerize the code and environment to run the model.
